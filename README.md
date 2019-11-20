@@ -4,8 +4,8 @@ Materi: UI/UX, Layouting, Slicing
 Project name: osg8_tugas2_v1
 
 ### Screenshot
-https://drive.google.com/file/d/1lACCBXGbJvQ8RFNDNMfyBbPvLnMbJufx/view?usp=sharing
-- [Slicing with Flutter](https://drive.google.com/file/d/1PWBOEz-NWHR7UR-sNcmemFOsZwCaNbyo/view?usp=sharing)
+https://photos.app.goo.gl/JJ3Tr99qR7LdZYwm7
+https://photos.app.goo.gl/KS4PG6P2BPq4DCBQ8
 
 ### Built With
 - Desain UI with [CorelDraw](https://www.coreldraw.com/)
