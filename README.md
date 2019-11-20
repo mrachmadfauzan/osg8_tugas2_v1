@@ -4,8 +4,8 @@ Materi: UI/UX, Layouting, Slicing
 Project name: osg8_tugas2_v1
 
 ### Screenshot
-![Desain with Corel](https://photos.app.goo.gl/JJ3Tr99qR7LdZYwm7)
-![Build with Flutter](https://photos.app.goo.gl/KS4PG6P2BPq4DCBQ8)
+- [Desain with Corel](https://photos.app.goo.gl/JJ3Tr99qR7LdZYwm7 "source: photos.app.goo.gl")
+- [Build with Flutter](https://photos.app.goo.gl/KS4PG6P2BPq4DCBQ8 "source: photos.app.goo.gl")
 
 ### Built With
 - Desain UI with [CorelDraw](https://www.coreldraw.com/)
